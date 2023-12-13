@@ -1,0 +1,25 @@
+.quotesbox{
+    text-align: center;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+    margin: 53px;
+
+}
+p{
+font-family: 'Noto Sans', sans-serif;
+font-size: 30px;
+letter-spacing: 1px;
+font-weight: 500;
+margin: 30px;
+}
+.btn{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: #fff;
+}
+.btn:hover{
+    background-color: darkgreen;
+}
